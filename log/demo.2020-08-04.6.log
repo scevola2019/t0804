@@ -1,0 +1,4 @@
+2020-08-04 23:57:11,840 INFO (StartupInfoLogger.java:61)- Started Application in 4.498 seconds (JVM running for 4.964)
+2020-08-04 23:58:11,733 INFO (StartupInfoLogger.java:55)- Starting Application on DESKTOP-EK5J2AD with PID 4616 (G:\JAVA_PROJECT\0804\spring-app\target\classes started by Administrator in G:\JAVA_PROJECT\0804)
+2020-08-04 23:58:11,736 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-04 23:58:15,557 INFO (StartupInfoLogger.java:61)- Started Application in 4.206 seconds (JVM running for 4.697)

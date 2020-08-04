@@ -1,0 +1,9 @@
+2020-08-04 23:48:29,202 INFO (StartupInfoLogger.java:61)- Started Application in 4.571 seconds (JVM running for 5.058)
+2020-08-04 23:53:47,729 INFO (StartupInfoLogger.java:55)- Starting Application on DESKTOP-EK5J2AD with PID 13288 (G:\JAVA_PROJECT\0804\spring-app\target\classes started by Administrator in G:\JAVA_PROJECT\0804)
+2020-08-04 23:53:47,732 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-04 23:53:51,878 INFO (StartupInfoLogger.java:61)- Started Application in 4.539 seconds (JVM running for 5.016)
+2020-08-04 23:55:05,875 INFO (StartupInfoLogger.java:55)- Starting Application on DESKTOP-EK5J2AD with PID 280 (G:\JAVA_PROJECT\0804\spring-app\target\classes started by Administrator in G:\JAVA_PROJECT\0804)
+2020-08-04 23:55:05,878 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2020-08-04 23:55:09,868 INFO (StartupInfoLogger.java:61)- Started Application in 4.384 seconds (JVM running for 4.88)
+2020-08-04 23:57:07,718 INFO (StartupInfoLogger.java:55)- Starting Application on DESKTOP-EK5J2AD with PID 13100 (G:\JAVA_PROJECT\0804\spring-app\target\classes started by Administrator in G:\JAVA_PROJECT\0804)
+2020-08-04 23:57:07,720 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
